@@ -69,4 +69,4 @@ Este website não recolhe intencionalmente dados pessoais de menores de 16 anos.
 
 ### 8\. Alterações a esta política
 
-Esta política pode ser atualizada para refletir alterações ao website ou à legislação aplicável. O histórico de versões está disponível no repositório público [github.com/duartedionisio/legal](https://github.com/duartedionisio/legal).
+Esta política pode ser atualizada para refletir alterações ao website ou à legislação aplicável. O histórico de versões está disponível no repositório público [github.com/duarted/legal](https://github.com/duarted/legal).
